@@ -53,7 +53,7 @@ plugins:
 permalink                    : posts/:slug
 
 # Posts
-excerpt_separator            : <!–-break-–>
+excerpt_separator            : "\n"
 
 # Pagination
 paginate                     : 5
