@@ -111,7 +111,7 @@ const iconForTheme = (themeName) => {
 
 // initiate
 
-checkForSavedTheme();
+//checkForSavedTheme();
 
 const el = document.getElementById('theme-switcher');
 
