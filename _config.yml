@@ -5,9 +5,8 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Chris Lyons
-  description                  : >
-                               A place to see what I'm up to.
+  title                      : CHRIS LYONS
+  description                  :  A place to see what I'm up to.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file

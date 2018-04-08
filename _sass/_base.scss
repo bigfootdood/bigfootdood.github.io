@@ -15,7 +15,9 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     color: var(--text-color);
-    background-color: var(--bg-color);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .page {
@@ -25,6 +27,22 @@ body {
     max-width: 48rem;
     margin: 4rem auto 4rem auto;
 }
+
+.frame_tight{
+  padding: 35px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.frame{
+  padding: 35px;
+}
+
+
+.fadeIn {
+   -webkit-animation-name: fadeIn;
+   animation-name: fadeIn;
+ }
 
 
 @media (max-width: 48rem) {
@@ -125,11 +143,11 @@ ul, ol, dl {
 
 // HR, IMG
 //-------------------------------
-
-hr {
+//formerly hr
+br {
   margin-bottom: 4em;
   max-width: 30%;
-  border: 0.1em solid var(--shadow-color);
+  //border: 0.1em solid var(--shadow-color);
 }
 
 img {

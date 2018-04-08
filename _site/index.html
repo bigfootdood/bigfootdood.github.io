@@ -4,25 +4,24 @@
        <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-<title>Chris Lyons </title>
+<title>CHRIS LYONS </title>
 <!---->
-<meta name="description" content="A place to see what I'm up to.
-">
+<meta charset="utf-8">
+<meta name="generator" content="Three.js Editor">
+<meta name="description" content="A place to see what I'm up to.">
 <link rel="canonical" href="http://localhost:4000/">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Blog" />
-<meta name="twitter:description" content="A place to see what I'm up to.
-" />
+<meta name="twitter:description" content="A place to see what I'm up to." />
 <meta name="twitter:image" content="http://localhost:4000" />
 <meta name="author" content="">
 <link rel="author" href="">
 <meta property="og:locale" content="">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Blog">
-<meta property="og:description" content="A place to see what I'm up to.
-">
+<meta property="og:description" content="A place to see what I'm up to.">
 <meta property="og:url" content="http://localhost:4000/">
-<meta property="og:site_name" content="Chris Lyons">
+<meta property="og:site_name" content="CHRIS LYONS">
 <link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
 <link rel="stylesheet" href="/assets/css/main.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,400italic,700,700italic">
@@ -34,38 +33,287 @@
 <link rel="stylesheet" href="/assets/css/bf.css">
    <body>
        <div class="wrapper" id="blep">
-          <header>
-   <div class="menu">
-     <div class="logo">
-        <a href="/">Chris Lyons</a>
-        <!--<object type="image/svg+xml" data="/assets/img/dactl.svg" class="logosvg">Your browser does not support svg images</object>-->
+           <div class="frame_tight">
+<header>
+     <div class="menu">
+       <div class="logo">
+          <a href="/">CHRIS LYONS</a>
+          <!--<object type="image/svg+xml" data="/assets/img/dactl.svg" class="logosvg">Your browser does not support svg images</object>-->
+       </div>
+         <ul>
+             <li><a href="/about">about</a>
+             <li><a href="/archive">archive</a>
+         </ul>
      </div>
+     <div class="social">
        <ul>
-           <li><a href="/about">about</a>
-           <li><a href="/archive">archive</a>
+         <li>
+              <a href="https://github.com/bigfootdood" target="_blank" class="smaller">
+                <span class="icon-github"></span>
+              </a>
+         <li>
+              <a href="mailto:clyons@stevens.edu" target="_blank">
+                <span class="icon-mail_outline"></span>
+              </a>
+         <li>
+              <a href="/feed.xml" target="_blank">
+                  <span class="icon-rss_feed"></span>
+              </a>
        </ul>
+     </div>
+ </header>
+</div>
+           <div class="background">
+ <style>
+    canvas {
+      width: 100%;
+      height: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -9999;
+    }
+ </style>
+  <script src="/assets/js/three.min.js"></script>
+  	<script src="/assets/js/app.js"></script>
+  	<script src="/assets/js/WebVR.js"></script>
+  	<script>
+  		var loader = new THREE.FileLoader();
+  		loader.load( "/app.json", function ( text ) {
+  			var player = new APP.Player();
+  			player.load( JSON.parse( text ) );
+  			player.setSize( window.innerWidth, window.innerHeight );
+  			player.play();
+  			document.body.appendChild( player.dom );
+  			window.addEventListener( 'resize', function () {
+  				player.setSize( window.innerWidth, window.innerHeight );
+  			} );
+  		} );
+  	</script>
+</div>
+<div class="frame">
+<article class="blog">
+<style>
+  .vr-sculpting {
+    margin-bottom: 2em;
+  }
+  .vr-sculpting::before {
+    background-image: url('https://lh3.googleusercontent.com/Oc_fyz_qH2PkFxUmw_j1UGZsJUa30eg4YgrFeXVt9ChQ5Krj43YkGccA-uEwZxfuAnic3ze7DZLdQSO9q3HO6YARF_O8la1B3mJfs8xq3HfFhzykgekMIP6HUFUxlPI6NEqL9u2ohw');
+    background-size: cover;
+    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .vr-sculpting::after {
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,.8)0.8);
+    /*mix-blend-mode: darken;
+    mix-blend-mode: color-burn;
+    mix-blend-mode: hard-light;*/
+    mix-blend-mode: overlay;
+    z-index: -1;
+  }
+  .vr-sculpting-container,
+  .vr-sculpting-container::before,
+  .vr-sculpting-container::after {
+    height: 25rem;
+  }
+  .vr-sculpting-bleed-container,
+  .vr-sculpting-bleed-container::before,
+  .vr-sculpting-bleed-container::after {
+    height: 35rem;
+  }
+    @media (max-width: 48rem) {
+        .vr-sculpting-container,
+        .vr-sculpting-container::before,
+        .vr-sculpting-container::after{
+            height: 20rem;
+            margin-bottom: 3rem;
+        }
+    }
+</style>
+ <div class="
+    post-title-container
+        vr-sculpting vr-sculpting-container hero-hov
+  ">
+   <div class="heading-container hero-heading hero-heading-blog">
+     <h1>
+          <a href="/posts/vr-sculpting" title="Sculpting in VR">Sculpting in VR</a>
+     </h1>
+     <div class="
+        post-meta
+      ">
+        <span>31/01/2018</span>
+        <span>
+              <a href="/tag/vr">#vr</a>
+        </span>
+     </div>
    </div>
-   <div class="social">
-     <ul>
-       <li>
-            <a href="https://github.com/bigfootdood" target="_blank" class="smaller">
-              <span class="icon-github"></span>
-            </a>
-       <li>
-            <a href="mailto:clyons@stevens.edu" target="_blank">
-              <span class="icon-mail_outline"></span>
-            </a>
-       <li>
-            <a href="/feed.xml" target="_blank">
-                <span class="icon-rss_feed"></span>
-            </a>
-       <li>
-            <a href="#" onclick="switchTheme()" title="Switch theme?">
-              <span class="icon-invert_colors" id="theme-switcher"></span>
-            </a>
-     </ul>
+ </div>
+     <p>Over my winter holiday I spent a lot of time looking through some of my childhood creations from my bedroom. I found my drawing book as well as a few of my sculptures. I realized that back then I had a creative spirit that had no inspiration from trying to impress other people. I made whatever I wanted even if other people thought it was dumb. This inspired me to take it upon myself to try to work on more things for the sake of just having fun.
+       <div class="readmore">
+          <a href="/posts/vr-sculpting" role="button">Read more</a>
+       <div>
+</article>
+</div>
+  <br><!--formerly hr-->
+<div class="frame">
+<article class="blog">
+<style>
+  .imac-cat-bed {
+    margin-bottom: 2em;
+  }
+  .imac-cat-bed::before {
+    background-image: url('https://lh3.googleusercontent.com/wKoXSy91KzhKTatcWQ9LFzVp5TFi2e10vxdBUbBSlsgu_6ryu87MsBFuJgtFqluR_UGnUAtdoCUf_piZkaIb7_UlTybrzjD47J33apFGj_X6bIdJcvBHCZTsC91LUkFod8JKmvQ9Xw');
+    background-size: cover;
+    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .imac-cat-bed::after {
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(202,227,201,0.8);
+    /*mix-blend-mode: darken;
+    mix-blend-mode: color-burn;
+    mix-blend-mode: hard-light;*/
+    mix-blend-mode: overlay;
+    z-index: -1;
+  }
+  .imac-cat-bed-container,
+  .imac-cat-bed-container::before,
+  .imac-cat-bed-container::after {
+    height: 25rem;
+  }
+  .imac-cat-bed-bleed-container,
+  .imac-cat-bed-bleed-container::before,
+  .imac-cat-bed-bleed-container::after {
+    height: 35rem;
+  }
+    @media (max-width: 48rem) {
+        .imac-cat-bed-container,
+        .imac-cat-bed-container::before,
+        .imac-cat-bed-container::after{
+            height: 20rem;
+            margin-bottom: 3rem;
+        }
+    }
+</style>
+ <div class="
+    post-title-container
+        imac-cat-bed imac-cat-bed-container hero-hov
+  ">
+   <div class="heading-container hero-heading hero-heading-blog">
+     <h1>
+          <a href="/posts/imac-cat-bed" title="iMac Cat Bed">iMac Cat Bed</a>
+     </h1>
+     <div class="
+        post-meta
+      ">
+        <span>13/01/2018</span>
+        <span>
+              <a href="/tag/diy">#diy</a>
+        </span>
+     </div>
    </div>
-</header>
+ </div>
+     <p>I was just given a late model blue iMac g3 which lead to thoughts as to what I could do with my older orange g3.
+       <div class="readmore">
+          <a href="/posts/imac-cat-bed" role="button">Read more</a>
+       <div>
+</article>
+</div>
+  <br><!--formerly hr-->
+<div class="frame">
+<article class="blog">
+<style>
+  .vr-photo-links {
+    margin-bottom: 2em;
+  }
+  .vr-photo-links::before {
+    background-image: url('https://lh3.googleusercontent.com/kynKCrmN5S_8nH1jHWxdyD3n3j0gGzaDKYiqf-7f538kb34vOL6M6dNQ6X8le2OSgkvs3YOt-qydqQpSJGYYSVij6i3YXgzk6Bwg9Z2UuQXgbd1tcu8cYVrtylv3Dys-BU0Ywj3Mxg');
+    background-size: cover;
+    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .vr-photo-links::after {
+    content:'';
+    position:absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,.8)0.8);
+    /*mix-blend-mode: darken;
+    mix-blend-mode: color-burn;
+    mix-blend-mode: hard-light;*/
+    mix-blend-mode: overlay;
+    z-index: -1;
+  }
+  .vr-photo-links-container,
+  .vr-photo-links-container::before,
+  .vr-photo-links-container::after {
+    height: 25rem;
+  }
+  .vr-photo-links-bleed-container,
+  .vr-photo-links-bleed-container::before,
+  .vr-photo-links-bleed-container::after {
+    height: 35rem;
+  }
+    @media (max-width: 48rem) {
+        .vr-photo-links-container,
+        .vr-photo-links-container::before,
+        .vr-photo-links-container::after{
+            height: 20rem;
+            margin-bottom: 3rem;
+        }
+    }
+</style>
+ <div class="
+    post-title-container
+        vr-photo-links vr-photo-links-container hero-hov
+  ">
+   <div class="heading-container hero-heading hero-heading-blog">
+     <h1>
+          <a href="/posts/vr-photo-links" title="Sharable VR Photos">Sharable VR Photos</a>
+     </h1>
+     <div class="
+        post-meta
+      ">
+        <span>12/01/2018</span>
+        <span>
+              <a href="/tag/vr">#vr</a>
+        </span>
+     </div>
+   </div>
+ </div>
+     <p>So I recently acquired a Samsung Gear 360 and I wanted an easy way to send 360 photos over the web so that they are easily visible on mobile devices. I have prior experience with <a href="https://aframe.io/">A-Frame</a> VR, a javascript framework that lets you create VR environments with plain text web pages.
+       <div class="readmore">
+          <a href="/posts/vr-photo-links" role="button">Read more</a>
+       <div>
+</article>
+</div>
+  <br><!--formerly hr-->
+<div class="frame">
 <article class="blog">
 <style>
   .hello-worklog {
@@ -80,7 +328,7 @@
     width: 100%;
     left: 0;
     top: 0;
-    z-index: -2;
+    z-index: 0;
   }
   .hello-worklog::after {
     content:'';
@@ -125,7 +373,7 @@
      <div class="
         post-meta
       ">
-        <span>12/01/2018</span>
+        <span>11/01/2018</span>
         <span>
               <a href="/tag/github">#github</a>
               <a href="/tag/jekyll">#jekyll</a>
@@ -138,21 +386,25 @@
           <a href="/posts/hello-worklog" role="button">Read more</a>
        <div>
 </article>
-<nav class="pagination" role="navigation">
-<hr/>
- <ul>
-   <li class="pagination-item-prev" >
-      <span>&laquo; Previous</span>
-   <li class="pagination-item-next" >
-      <span>Next &raquo;</span>
- </ul>
-<hr/>
-</nav>
-           <footer>
-    <span>A place to see what I'm up to.
-</span>
-    <span>written by Chris Lyons</span>
-</footer>
+</div>
+<div class="frame_tight">
+ <nav class="pagination" role="navigation">
+ <hr/>
+   <ul>
+     <li class="pagination-item-prev" >
+        <span>&laquo; Previous</span>
+     <li class="pagination-item-next" >
+        <span>Next &raquo;</span>
+   </ul>
+ <hr/>
+ </nav>
+</div>
+           <div class="frame_tight">
+ <footer>
+      <span>A place to see what I'm up to.</span>
+      <span>written by Chris Lyons</span>
+ </footer>
+</div>
        </div>
 <script type="text/javascript" src="/assets/js/theme.js"></script>
 <script type="text/javascript" src="/assets/js/barefoot.js"></script>

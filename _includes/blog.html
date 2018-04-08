@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-
+<div class="frame">
 <article class="blog">
 
 
@@ -74,7 +74,8 @@
 
 
 </article>
+</div>
   <!-- Last post does not need a hr -->
 {% if forloop.last == false %}
-  <hr>
+  <br><!--formerly hr-->
 {% endif %}

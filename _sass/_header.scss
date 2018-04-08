@@ -2,11 +2,14 @@
 //-------------------------------
 
 header {
+    //background-color: rgba(0, 0, 0, 0.67);
     overflow: hidden;
-    margin-bottom: 5rem;
+    //margin-bottom: 5rem;
 }
 
+
 .logo {
+    font-family: PierSans;
     font-size: 3.5rem;
     font-weight: $base-font-weight-bold;
     color: var(--link-color);
@@ -17,6 +20,10 @@ header {
     }
 }
 
+@font-face {
+    font-family: 'PierSans';
+    src:url("/assets/font/PierSans-Regular.ttf");
+}
 .menu {
     float: left;
 

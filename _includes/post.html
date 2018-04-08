@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-
+<div class="frame">
 <article class="post">
 
   {% if site.blog.hero_layout == true %}
@@ -49,3 +49,4 @@
     <!-- Post content -->
     {{ post.content | remove: '&lt;!–-break-–&gt;' }}
 </article>
+</div>

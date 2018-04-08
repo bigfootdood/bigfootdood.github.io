@@ -1,20 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Lyons</title>
-    <description>A place to see what I'm up to.
-</description>
+    <title>CHRIS LYONS</title>
+    <description>A place to see what I'm up to.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jan 2018 17:02:06 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2018 17:02:06 -0500</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 00:59:20 -0400</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 00:59:20 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Sculpting in VR</title>
+        <description>&lt;p&gt;Over my winter holiday I spent a lot of time looking through some of my childhood creations from my bedroom. I found my drawing book as well as a few of my sculptures. I realized that back then I had a creative spirit that had no inspiration from trying to impress other people. I made whatever I wanted even if other people thought it was dumb. This inspired me to take it upon myself to try to work on more things for the sake of just having fun.&lt;/p&gt;
+
+&lt;p&gt;I started making sculptures using Oculus Medium, a sculpting tool that utilizes Oculus rift’s “touch” controllers.&lt;/p&gt;
+
+&lt;p&gt;Here is what I ended up making:
+&lt;img src=&quot;https://lh3.googleusercontent.com/rn-H09CK5xwZCChxSWc81bzZAzCTLxCO8JHRdKPc7pqHgk6SbjiVSTqPPXicvcjQdO6hlhGFnXaqFM0QkjGtrsuAXII7QOnocLh9MJjzv91lP_GIrJltt8QP4cLHMcOYb_dBqDvFKQ&quot; alt=&quot;medium photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t know what it is and I don’t care :)&lt;/p&gt;
+
+&lt;p&gt;I also decided to try and create a space where it can be viewed online. I used the same javascript framework that was used to make the vr photo spheres in my other post. You can find a link to it &lt;a href=&quot;http://christopherlyons.me/vr_spaces/01.html&quot;&gt;here&lt;/a&gt; (it takes a second to load). Right now the problem I am having is that Oculus Medium doesn’t do a great job of exporting 3d models and when looking at the space I made you can see that the texture for the sculpture has broken into tiny squares that make a quilt effect. I’m still working on how to fix that. I also recorded the sound that is playing in the background but it skips and only plays on desktop browsers for now :(&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/vr-sculpting</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/vr-sculpting</guid>
+        
+        <category>vr</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>iMac Cat Bed</title>
+        <description>&lt;p&gt;I was just given a late model blue iMac g3 which lead to thoughts as to what I could do with my older orange g3.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://giphy.com/embed/I7rQpNy0j8vPW&quot; width=&quot;480&quot; height=&quot;204&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I give full credit to &lt;a href=&quot;https://www.youtube.com/watch?v=SdFIi-ZF-6M&quot;&gt;this&lt;/a&gt; video for the idea to make it into a small cat house.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/GioNE_F--DGlm6vtUa5EWP0uGHhqB-c9ne9qYjEBiNZpcfpU5Gr6ouB18u8ejyJpzZ0cB0aErLEbh_czeyBKOP4gBwikB-vnVvyp8niH8iJ7POBL0TFfYNcQOm3GbfUJzKQwqIiUmQ&quot; alt=&quot;mira&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/imac-cat-bed</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/imac-cat-bed</guid>
+        
+        <category>diy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sharable VR Photos</title>
+        <description>&lt;p&gt;So I recently acquired a Samsung Gear 360 and I wanted an easy way to send 360 photos over the web so that they are easily visible on mobile devices. I have prior experience with &lt;a href=&quot;https://aframe.io/&quot;&gt;A-Frame&lt;/a&gt; VR, a javascript framework that lets you create VR environments with plain text web pages.&lt;/p&gt;
+
+&lt;p&gt;Here is an example image I took:
+&lt;img src=&quot;https://lh3.googleusercontent.com/S3Jywywq9iy7IkcAxRrgg4Qk_YXkrOG4pki48KuGuKFZV_kHW7UvGaDm7tn8-wIk8k5aRsdMlcKwge28fDbKkfCF94omyXs2K7c4zAE0aFXMraKu7ccaFzWufCH3Eqoa1D1oM4EAAA&quot; alt=&quot;tim vr&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a basic html page and magic from the A-Frame framework I was able to make a little photo gallary!&lt;/p&gt;
+
+&lt;h2 id=&quot;click-me&quot;&gt;&lt;a href=&quot;../test.html&quot;&gt;Click Me!&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/vr-photo-links</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/vr-photo-links</guid>
+        
+        <category>vr</category>
+        
+        
+      </item>
     
       <item>
         <title>Hello WorkLog!</title>
         <description>&lt;p&gt;This is my work log, a place where I will be posting markdown notes from projects I will be working on. The idea is that I could document what I do a little more often whether it be working on something new in computer science or just something I find fun or interesting. I want this to be a place where I can organize some of my thoughts and projects.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/hello-worklog</link>
         <guid isPermaLink="true">http://localhost:4000/posts/hello-worklog</guid>
         
