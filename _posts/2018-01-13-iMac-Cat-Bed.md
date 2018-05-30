@@ -8,7 +8,7 @@ overlay: green
 published: true
 ---
 
-I was just given a late model blue iMac g3 which lead to thoughts as to what I could do with my older orange g3.
+I was just given a late model blue iMac G3 which lead to thoughts as to what I could do with my older orange G3.
 
 <iframe src="https://giphy.com/embed/I7rQpNy0j8vPW" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 

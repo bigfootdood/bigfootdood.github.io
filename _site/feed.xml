@@ -5,9 +5,34 @@
     <description>A place to see what I'm up to.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Apr 2018 01:19:24 -0400</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 01:19:24 -0400</lastBuildDate>
+    <pubDate>Wed, 30 May 2018 13:46:39 -0400</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 13:46:39 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Just Started 3d Printing</title>
+        <description>&lt;h2 id=&quot;i-got-a-3d-printer&quot;&gt;I got a 3d printer!&lt;/h2&gt;
+
+&lt;p&gt;I have been printing things like crazy over the last week, but it wasn’t until today that I experimented with printing something of my design.&lt;/p&gt;
+
+&lt;p&gt;Instead of printing one of my Vr sculptures I decided to make something functional. I wanted to make a sun visor so I could use my Nintendo Switch on the train. There are other models online, but I wanted to mine to use paper or cardboard to minimize the printed material.&lt;/p&gt;
+
+&lt;p&gt;Here’s how it came out:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ZFtrxOf9LKGSAkQAEkEDddgQenMm-oXl89Y8FjhsTCQmhDi87wGvaJkZ9ap2qFFOpZMDVrkWY-iRDiWO-jRi4v-1DW0nJxldM_IRx87jPqsiueHZSKv8Vi6mbnZBAQw3FQZtg4Rztg=w2400&quot; alt=&quot;croc&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/qv9YI0wUkDXhIWEi7rte0_DH1-I5eRUdfXAEE_KOs7lX1orrndDUXEex3A8ADKUT4-AQYnWqFPL60IDeX3A7dB9cmph5_wYQ9Ok4LEFji6JJwv1mOZ-3w6R8upGiCbLJNBrA3haxeQ=w2400&quot; alt=&quot;croc2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I went through four prototypes but ultimately decided on a simple clip design. The final result ended up looking like an alligator so I gave it a tail and eyes! The model can be downloaded here: &lt;a href=&quot;https://www.thingiverse.com/thing:2869938&quot;&gt;Thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Apr 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/alligator-clips</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/alligator-clips</guid>
+        
+        <category>3dprinting</category>
+        
+        
+      </item>
     
       <item>
         <title>Sculpting in VR</title>
@@ -33,7 +58,7 @@
     
       <item>
         <title>iMac Cat Bed</title>
-        <description>&lt;p&gt;I was just given a late model blue iMac g3 which lead to thoughts as to what I could do with my older orange g3.&lt;/p&gt;
+        <description>&lt;p&gt;I was just given a late model blue iMac G3 which lead to thoughts as to what I could do with my older orange G3.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://giphy.com/embed/I7rQpNy0j8vPW&quot; width=&quot;480&quot; height=&quot;204&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 

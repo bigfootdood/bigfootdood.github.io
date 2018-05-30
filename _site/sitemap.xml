@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://localhost:4000/posts/alligator-clips/</loc>
+      
+        <lastmod>2018-04-13T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/posts/vr-sculpting/</loc>
       
         <lastmod>2018-01-31T00:00:00-05:00</lastmod>
@@ -68,7 +83,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2018-04-08T01:19:24-04:00</lastmod>
+        <lastmod>2018-05-30T13:46:39-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +98,7 @@
     <url>
       <loc>http://localhost:4000/archive/</loc>
       
-        <lastmod>2018-04-08T01:19:24-04:00</lastmod>
+        <lastmod>2018-05-30T13:46:39-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -102,7 +117,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2018-04-08T01:19:24-04:00</lastmod>
+        <lastmod>2018-05-30T13:46:39-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -123,7 +138,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/style.css</loc>
       
-        <lastmod>2018-04-08T01:19:24-04:00</lastmod>
+        <lastmod>2018-05-30T13:46:39-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
