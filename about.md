@@ -10,43 +10,55 @@ published: true
 
 # My Objective
 
-Learn more about emerging technologies via hands on experience and research. I am looking for a position that not only teaches me more about my profession but allows me to tackle some of the obstacles involved with personal growth head on.
+I want to influence the development of immerging technologies via hands-on experience and research. I am looking for a position that not only teaches me more about a new field of interest but allows me to tackle some of the obstacles involved with personal growth head on.
 
 # My Education
 
-* **Brookdale Community College**: I attended Brookdale for 2 years as an alternative means to a high school education. After spending two years at my local high school I learned about a program at Brookdale that would allow me to graduate early and study both computer science and design. I met my requirements to get my High School diploma in the first year and spent the second collecting College credits.
+* **Brookdale Community College**: After spending two years at my local high school I learned about a program at Brookdale that would allow me to graduate early and study both computer science and design. I met my requirements to get my High School diploma in the first year and spent the second collecting College credits.
 
-* **Stevens Institute of Technology**: I transfered to the Stevens Institute of Technology to pursue a bachelors degree in Computer Science. I am currently a junior on course to graduate spring 2019.
+* **Stevens Institute of Technology**: I transfered to the Stevens Institute of Technology to pursue a bachelors degree in Computer Science. I am graduating this may.
 
 # Technical Skills
 
-* **Design:** Having taken graphic design at Brookdale and Human Computer Interaction at Stevens, I find that user experience design is becoming a primary focus of mine. I have experience with the Adobe Suite specifically with **Photoshop** and **Illustrator**.
+* **Programming:** 
+  * Java, Python, C++, Js, React, Redux, Express, MongoDB, Sass, ...
 
-* **Development:**
+* **Creative:**
+  * After Effects, Cinema 4d, Photoshop, Illustrator, Indesign, light Unity
+
+<!-- * **Development:**
   * Data Structures and Concurrent Programming: **Java**
   * Algorithms and Operating Systems: **C++**
   * Systems-Programming: **C**
   * Discrete Math, Programming Languages: **Racket**
   * Database Management: **mySQL, Javascript(mongo)**
-  * Web-Development: **Html, CSS, Javascript:Node...**
+  * Web-Development: **Html, CSS, Javascript:Node...** -->
 
-* **Operating System preference:**
-  * For the last four or five years I have preferred to use **Linux** as my primary Os but grew up using a Mac and I also run windows on a few of my machines.
+<!-- * **Operating System preference:**
+  * For the last four or five years I have preferred to use **Linux** as my primary Os but grew up using a Mac and I also run windows on a few of my machines. -->
 
 # Work Experience
 
+*  **Ribbit.io** (Hoboken, NJ) Full-Stack Developer/UX Designer: (Fall 18 & Spring 19)
+    * Worked to develop UI for Ribbit.io, a service for finding and rating businesses based on their environmental impact. This was my senior design project for my last year at Stevens.
 
-*  **Samsung** 837; Mosaic Sales Solutions (New York, NY) seasonal VR Floor Guide/Sales Associate: (9/17 to 12/17)
-    * Working at Samsung was as fun as it was demanding. My responsibilities at Samsung changed day to day. One day I would give demonstrations of virtual reality and another I would have to give a guided photo-tour somewhere in Manhattan. I really enjoyed the daily change of pace. The most important growth I had while working there was with my teammates. It was the first time I had to work with a team that was greater than twenty people. Getting to know everyone was intimidating but was well worth the effort.
+*  **Brompton Bicycle Inc.**  (New York, NY) Independent AR Developer: (Fall 18 & Spring 19)
+    * Currently helping to develop a web-based augmented reality platform for Brompton to demonstrate the capability for their folding bikes.
+
+*  **Gate Reality** (New York, NY) Social Media & 3d Web development Intern: (Summer 18)
+    * Helped to develop the brand for Gate Reality by making posts for their instagram using After Effects and moved to working on WebGL based projects using Three.js
+
+*  **Samsung** 837 Mosaic Sales Solutions (New York, NY) seasonal VR Floor Guide/Sales Associate: (9/17 to 12/17)
+    * Worked as a guide to demonstrate the functionality of Samsung's Virtual Reality headsets as well as helping with events.
+    <!-- * Working at Samsung was as fun as it was demanding. My responsibilities at Samsung changed day to day. One day I would give demonstrations of virtual reality and another I would have to give a guided photo-tour somewhere in Manhattan. I really enjoyed the daily change of pace. The most important growth I had while working there was with my teammates. It was the first time I had to work with a team that was greater than twenty people. Getting to know everyone was intimidating but was well worth the effort. -->
 
 * **Brielle Cyclery** (Brielle, NJ)
 Sales Associate/Mechanic: (6/13 to 9/16)
-  * I started working at Brielle with little to no experience with bicycles whatsoever. The owner, Cathy, took a chance hiring me but I learned very quickly and became one of their primary mechanics. Initially my responsibility was solely to assemble new bicycles but that grew to repairs and even sales. By the end I helped run their satellite shop in Asbury Park. Brielle was a huge turning point for my understanding of what to value in a job, my coworkers became family and I now know that type of experience is something I want out of any career.
+  * Learned the ins and outs of bicycle repair while developing a strong passion for working as a part of a team.
+  <!-- * I started working at Brielle with little to no experience with bicycles whatsoever. The owner, Cathy, took a chance hiring me but I learned very quickly and became one of their primary mechanics. Initially my responsibility was solely to assemble new bicycles but that grew to repairs and even sales. By the end I helped run their satellite shop in Asbury Park. Brielle was a huge turning point for my understanding of what to value in a job, my coworkers became family and I now know that type of experience is something I want out of any career. -->
 
-* **Early Work**:
-  * My mother is an event director and fitness consultant so growing up I spent a lot of time volunteering at events like races or grand-openings.
-  * At the ages of 13-15 I worked and eventually ran a local Italian Ice shop performing not only sales but custodial duties,
-  store inventory/shipping and even new hire training. (I got unlimited free ice cream and it was amazing)
+* **Bonus**:
+  * At the ages of 13-15 I worked and eventually ran a local Italian Ice shop.(I got unlimited free ice cream and it was amazing)
 
 # Interests and Hobbies
 
@@ -65,3 +77,5 @@ This is my work log, a place where I will be posting markdown notes from project
 I made this site using a jekyll template site called dactl made by **Melangue**
 
 Here is a link to the original Repo: [dactl](https://github.com/melangue/dactl)
+
+As for this spinning background, it is a sculpture I made in Oculus Medium. It is actually a human head if seen from the right angle.
