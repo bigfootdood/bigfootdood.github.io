@@ -1,0 +1,26 @@
+[[main]]
+name = "Services"
+pageRef = "services"
+identifier = "WTkUiQvCsI"
+weight = 9999
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "wppoGheEEm"
+weight = 9999
+
+[[main]]
+name = "Work"
+pageRef = "work"
+identifier = "Y8e02NGPw8"
+weight = 9999
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/christopher-lyons-a33a1195/"
+identifier = "IDMHb3v2sQ"
+weight = 9999

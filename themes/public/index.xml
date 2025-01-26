@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Lyons</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Christopher Lyons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Chris Lyons</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>126 Marine</title>
+      <link>http://localhost:1313/projects/126marine/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/126marine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/126marine/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>3D Rendering Work</title>
+      <link>http://localhost:1313/work/1733878820307-example-project/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/1733878820307-example-project/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/work/1733878820307-example-project/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>My Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/services/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test-about-page</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test-about-page</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
