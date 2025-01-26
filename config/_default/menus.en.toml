@@ -10,12 +10,6 @@ pageRef = "posts"
 identifier = "wppoGheEEm"
 weight = 9999
 
-[[main]]
-name = "Work"
-pageRef = "work"
-identifier = "Y8e02NGPw8"
-weight = 9999
-
 [[footer]]
 none = "none"
 

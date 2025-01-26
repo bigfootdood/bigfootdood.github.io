@@ -7,33 +7,39 @@ tags: ["example", "tag"]
 ---
 
 
-## **Temporary Website Link**: [360 Demo Site](https://chrislyons.net/360DemoSite/)
+### **Temporary Website Link**: [360 Demo Site](https://chrislyons.net/360DemoSite/)
 
 ---
 ## **Downloads:**
 
 ### 360 Standalone Desktop App:
 
-MacOs
+~~~
+How to run on MAC:
 
-Windows
+Unpack "126Marine.tar.bz2" (Double Click)
+Open Folder
+Double Click "OpenTour.command"
+~~~
 
-### Static Website Files
+[Downlaod Mac](https://drive.google.com/file/d/1DvLAeVPANhmM79Fh_HhlUYk7RvpDQ5EB/view?usp=sharing)
+
+[Download Windows](https://drive.google.com/file/d/1Dw92GeiSXcR6jzzPnWBowrPgOH2pIBTX/view?usp=sharing)
+
+### Static Website Files:
 
 Zip File
 
 ### Photos:
 
-360
+[360](https://drive.google.com/drive/folders/16n1fn9ix5wspDuceFs9AULX3ghdND3ez?usp=sharing)
 
-Drone
+[Drone]()
 
-### 3D Model:
+### 3d Scans
 
-USDZ (Iphone AR Model)
+[Raw 3d Scan Files](https://drive.google.com/drive/folders/16lPU784SNBykFmhamW3bRH6rPVr24f79?usp=sharing)
 
 ### Floorplans:
 
-Pdf
-
-Svg
+[PDF](https://drive.google.com/file/d/195m9p8PMa4R0gTEFYTWYK39HNdqM0h7P/view?usp=sharing)
