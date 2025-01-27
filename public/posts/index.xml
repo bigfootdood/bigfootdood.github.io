@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Christopher Lyons</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://chrislyons.net/posts/</link>
     <description>Recent content in Posts on Christopher Lyons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Chris Lyons</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chrislyons.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
