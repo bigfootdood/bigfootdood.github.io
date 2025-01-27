@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Christopher Lyons</title>
-    <link>https://chrislyons.net/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Christopher Lyons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Chris Lyons</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chrislyons.net/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>126 Marine</title>
-      <link>https://chrislyons.net/projects/126marine/</link>
+      <link>http://localhost:1313/projects/126marine/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://chrislyons.net/projects/126marine/</guid>
+      <guid>http://localhost:1313/projects/126marine/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chrislyons.net/projects/126marine/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/126marine/featured.jpg" />
     </item>
     
   </channel>
