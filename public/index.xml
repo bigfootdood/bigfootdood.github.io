@@ -30,18 +30,18 @@
       <description>&lt;p&gt;BIO&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Services</title>
-      <link>http://localhost:1313/services/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/</guid>
-      <description>&lt;p&gt;Services&lt;/p&gt;</description>
-    </item>
-    <item>
       <title></title>
       <link>http://localhost:1313/hidden/markdown-syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hidden/markdown-syntax/</guid>
       <description>&lt;p&gt;Hidden File?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;interactive-3d-websites&#34;&gt;Interactive 3D Websites&lt;/h2&gt;&#xA;&lt;p&gt;I design interactive 3D websites that make it easy to showcase spaces, designs, or products online. These websites are a great way to provide an engaging experience for your audience, whether you’re an architect, museum curator, or business owner.&lt;/p&gt;&#xA;&lt;h2 id=&#34;360-photography-and-virtual-tours&#34;&gt;360° Photography and Virtual Tours&lt;/h2&gt;&#xA;&lt;p&gt;I create immersive, high-quality 360° photo tours to help bring your spaces to life. Whether it’s for real estate, museums, entertainment venues, or preservation projects, these tours offer an interactive way for people to experience your location from anywhere.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
