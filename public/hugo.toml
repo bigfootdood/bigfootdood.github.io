@@ -1,0 +1,6 @@
+baseURL = 'https://chrislyons.tech/'
+languageCode = 'en-us'
+title = 'Chris Lyons'
+theme = 'risotto'
+
+
