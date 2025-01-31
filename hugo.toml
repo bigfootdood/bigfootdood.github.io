@@ -27,3 +27,17 @@ theme = 'risotto'
 
 [params.theme]
 palette = "dracula"
+
+[params.about]
+title = "ChrisLyons.net"
+description = "We're all in this together."
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:chrislyons.create@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-instagram"
+title = "Insta"
+url = "https://www.instagram.com/bigfootdood/"
