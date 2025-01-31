@@ -9,7 +9,7 @@ body {
     line-height: 1.5rem;
 }
 
-/* Headings */
+/* Headings 
 h1, 
 h2, 
 h3, 
@@ -20,6 +20,8 @@ h6 {
     margin: 1.5rem 0 0 0;
     font-weight: 600;
 }
+
+
 
 h1+h2,
 h1+h3,
@@ -49,9 +51,11 @@ h6:before {
     color: var(--muted);
 }
 
+
 h1:first-child {
     margin-top: 0;
 }
+*/
 
 /* Paragraphs */
 p {
@@ -178,7 +182,7 @@ hr {
 }
 
 hr:after {
-    content: '---';
+    content: '________________________________________________';
     color: var(--muted);
 }
 

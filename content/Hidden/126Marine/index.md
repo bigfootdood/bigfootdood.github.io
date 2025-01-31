@@ -9,10 +9,11 @@ tags: ["example", "tag"]
 
 ### **Temporary Website Link**: [360 Demo Site](https://chrislyons.net/360DemoSite/)
 
+![Photo](featured.jpg)
 ---
 ## **Downloads:**
 
-### 360 Standalone Desktop App:
+360 Standalone Desktop App:
 
 ~~~
 How to run on MAC:
