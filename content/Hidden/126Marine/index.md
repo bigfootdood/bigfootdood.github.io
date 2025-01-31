@@ -29,7 +29,7 @@ Double Click "OpenTour.command"
 
 ### Static Website Files:
 
-Zip File
+[zip](https://drive.google.com/file/d/1DxxV7U4WhocuDeXF6Cgp5ghxU81LCAuA/view?usp=sharing)
 
 ### Photos:
 
