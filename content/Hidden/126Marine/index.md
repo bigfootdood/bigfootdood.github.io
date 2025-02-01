@@ -47,3 +47,4 @@ Regular: [PDF](https://drive.google.com/file/d/195m9p8PMa4R0gTEFYTWYK39HNdqM0h7P
 
 Generated Dimensions: [PDF](https://drive.google.com/file/d/1nfjr4pbfCtH8qIYgbddwZo0WiXSOTU2s/view?usp=sharing)
 
+Cad: [DXF](https://drive.google.com/drive/folders/1E7n8bAqFMrOdyYgcnff5cKxp2RUAdOE8?usp=sharing)
