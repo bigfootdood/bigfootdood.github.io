@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/_index.md",
+                "file": "Hidden/126Marine/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -158,24 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05121d84997ad5d3",
+  "active": "0d32fc49fd843ebf",
   "lastOpenFiles": [
+    "post/The Camp Snap 103/_index.md",
+    "post/The Camp Snap 103/DSCF0481.jpg",
+    "post/The Camp Snap 103/DSCF0646.jpg",
+    "post/The Camp Snap 103/DSCF0670.jpg",
+    "post/The Camp Snap 103/DSCF0447.jpg",
+    "post/The Camp Snap 103/DSCF0427.jpg",
+    "post/The Camp Snap 103/DSCF0375.jpg",
+    "post/The Camp Snap 103/DSCF0023.jpg",
+    "post/The Camp Snap 103/DSCF0020.jpg",
+    "about/_index.md",
     "about/me.jpg",
     "about",
-    "post/The Camp Snap 103/_index.md",
-    "about/_index.md",
     "post/The Camp Snap 103/DSCF0780.jpg",
     "post/The Camp Snap 103/_index.md.md",
     "post/The Camp Snap 103.md",
-    "post/The Camp Snap 103/DSCF0798.jpg",
-    "post/The Camp Snap 103/DSCF0822.jpg",
-    "post/The Camp Snap 103/DSCF0646.jpg",
-    "post/The Camp Snap 103/DSCF0670.jpg",
-    "post/The Camp Snap 103/DSCF0481.jpg",
-    "post/The Camp Snap 103/DSCF0375.jpg",
-    "post/The Camp Snap 103/DSCF0427.jpg",
-    "post/The Camp Snap 103/DSCF0023.jpg",
-    "post/The Camp Snap 103/DSCF0020.jpg",
     "post/The Camp Snap 103",
     "post/_index.md",
     "services/index.md",

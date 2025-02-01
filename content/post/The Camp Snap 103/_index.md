@@ -46,7 +46,7 @@ I won’t go too deep into the details, but the amount of digital noise and colo
 
 After using the camera for a month and a half, would I regret buying it if it hadn’t been a gift?
 
-No! Surprisingly, I’ve found ways to make this thing work. First, I downloaded the black-and-white “filter” from Camp Snap’s website, which made a world of difference. A lot of what made the images look bad now looks kinda cool—the digital noise now resembles film grain. To fix the sharpness issue, I attached an adapter to thread a mist filter onto the camera to soften the images.
+No. Surprisingly, I’ve found ways to make this thing work. First, I downloaded the black-and-white “filter” from Camp Snap’s website, which made a world of difference. A lot of what made the images look bad now looks kinda cool—the digital noise now resembles film grain. To fix the sharpness issue, I attached an adapter to thread a mist filter onto the camera to soften the images.
 
 ![StreetCrossing](DSCF0427.jpg)
 I’ve taken the camera to multiple concerts, where it’s a no-brainer to pass between friends (or even drunk strangers).
@@ -57,12 +57,12 @@ I’ve taken it skiing, where I’ve come to love it the most—I hate the awkwa
 ![Sara1](DSCF0780.jpg)
 ![sara2](DSCF0798.jpg)
 
-So far, my favorite part of using the camera is plugging it in. I connect it directly to my phone, usually right before bed, and relive the day’s photos for the first time. I know this feeling is all too familiar for film photographers, but there’s something nice about choosing _when_ you get to have that moment.
+So far, my favorite part of using the camera is when it comes time to transfer photos. I connect it directly to my phone, usually right before bed, and relive the day’s photos for the first time. I know this feeling is all too familiar for film photographers, but there’s something nice about choosing _when_ you get to have that moment.
 
 ### Should You Buy One?
 
-Right now, the number of photos displayed on the back of my camera is 827. That’s way more than I would have ever taken with my smartphone. That’s roughly 30 rolls of disposable camera film, which would cost far more than the Camp Snap. For me, it has absolutely been worth it.
+Right now, the number of photos displayed on the back of my camera is 827. That’s way more than I would have ever taken with my smartphone. That’s roughly 30 disposable cameras, which would cost far more than the Camp Snap. For me, it has absolutely been worth it.
 
-Do I recommend you go out and buy one? Probably not. While I’ve found it to be a perfect companion for activities where I don’t want to carry a nice camera but also don’t want to use my phone, it’s not for everyone. Each of my siblings also received one for Christmas, and I’d bet that some of their photo counts are still in the single digits.
+Do I recommend you go out and buy one? Probably not. While I’ve found it to be a perfect companion for activities where I don’t want to carry a nice camera but also don’t want to use my phone, it’s still not for everyone. I mentioned each of my siblings also received one for Christmas, and I’d bet that some of their photo counts are still in the single digits.
 
 It’s perfect if your kid is going to summer camp and you’re okay with crappy photo quality. Or, if you’re like me—desperate to ditch the smartphone but still want something that actually _feels_ like a camera.
