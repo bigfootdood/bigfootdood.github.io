@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/The Camp Snap 103/_index.md",
+                "file": "about/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -158,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d32fc49fd843ebf",
+  "active": "05121d84997ad5d3",
   "lastOpenFiles": [
-    "about.md",
+    "about/me.jpg",
+    "about",
     "post/The Camp Snap 103/_index.md",
+    "about/_index.md",
     "post/The Camp Snap 103/DSCF0780.jpg",
     "post/The Camp Snap 103/_index.md.md",
     "post/The Camp Snap 103.md",
