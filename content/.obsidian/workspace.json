@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "services/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -160,9 +160,23 @@
   },
   "active": "0d32fc49fd843ebf",
   "lastOpenFiles": [
-    "_index.md",
+    "services/IMG_20240619_143701_00_185.jpg",
     "services/index.md",
-    "Hidden/126Marine/index.md",
-    "about.md"
+    "services/dji_fly_20240615_145922_0008_1718458884467_aeb.jpg",
+    "services/0001.jpg",
+    "about.md",
+    "services/3d_Scan.png",
+    "photos/insta.html",
+    "photos/_index.md",
+    "photos",
+    "insta/insta.html",
+    "insta/_index.md",
+    "insta/index.md",
+    "insta/insta.md",
+    "insta",
+    "insta.md",
+    "about copy.md",
+    "_index.md",
+    "Hidden/126Marine/index.md"
   ]
 }

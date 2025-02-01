@@ -3,7 +3,12 @@ languageCode = 'en-us'
 title = 'Chris Lyons'
 theme = 'risotto'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
+      
 [menu]
 
   [[menu.main]]
