@@ -44,4 +44,6 @@ Double Click "OpenTour.command"
 ### Floorplans:
 
 Regular: [PDF](https://drive.google.com/file/d/195m9p8PMa4R0gTEFYTWYK39HNdqM0h7P/view?usp=sharing)
-Dimensions: [PDF](https://drive.google.com/file/d/1yK6K_BjKgz5Q_sjs41qRPthbZCUf9r9N/view?usp=sharing)
+
+Generated Dimensions: [PDF](https://drive.google.com/file/d/1nfjr4pbfCtH8qIYgbddwZo0WiXSOTU2s/view?usp=sharing)
+
