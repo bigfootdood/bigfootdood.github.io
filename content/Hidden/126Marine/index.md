@@ -9,7 +9,7 @@ tags: ["example", "tag"]
 
 ### **Temporary Website Link**: [360 Demo Site](https://chrislyons.net/360DemoSite/)
 
-![Photo](featured.jpg)
+![Photo](Hidden/126Marine/featured.jpg)
 ---
 ## **Downloads:**
 

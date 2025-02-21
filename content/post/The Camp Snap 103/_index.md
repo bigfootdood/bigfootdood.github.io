@@ -2,7 +2,7 @@
 author = "Chris Lyons"
 title = "The Camp Snap 103"
 date = "2025-01-31"
-draft = true
+draft = false
 description = "Messing around with the instagram camera"
 tags = [
     "photography",
@@ -11,19 +11,21 @@ tags = [
 	    ]
 +++
 
-As someone who refuses the title of photographer but won’t leave home without a camera, I fall into the niche (though growing?) category of point-and-shoot enthusiasts. I practically hate using a smartphone to take photos. There’s something about holding a sometimes $1,000+ piece of glass by the corners that takes you out of the environment you’re trying to capture. There’s an easy solution to this problem: buy a film camera.
+![CampSnap](featured.jpg)
+
+As someone who refuses the title of photographer but won’t leave home without a camera, I fall into the niche (though growing?) category of point-and-shoot enthusiasts. I think this comes from how much I despise using a smartphone to take photos. There’s something about holding a (sometimes $1,000+) piece of glass by the corners that takes you out of the environment you’re trying to capture. This same awkard feeling has bled into holding up any digital camera that doesn't have a viewfinder: I still feel like I'm staring at a screen. While digital cameras without screens do exist, there’s an easier solution to this problem: buy a film camera.
 
 Unfortunately, I have a chronic issue that prevents me from exploring that world: final boss syndrome. In certain video games, you collect items that can only be used once, so you save them for when you _really_ need them. I’m the person who reaches the final battle with an inventory full of single-use potions and defeats the boss without ever using them because I thought, _there will ALWAYS be a better time to do so._ This is also my experience with film photography (and instant cameras). I’d carry a disposable camera for months before finishing the roll—not to mention, I’ve never actually gotten any of them developed. I know this might be a matter of discipline, but honestly, I enjoy something right in between: Enter the Camp Snap Camera.
 
-If you use Instagram and have even a passing interest in cameras, there’s a good chance you’ve been served a million ads for this thing. The first time I saw one, I clicked the page, and since then, my feed has been flooded with ads to the point where even my friends started getting them—and sending them to me. I was clearly the target demographic.
+If you use Instagram and have even a passing interest in cameras, there’s a good chance you’ve been served a million ads for this thing. The first time I saw one, I opened their wepage, and since then, my feed has been flooded with ads to the point where even my friends started getting them—and sending them to me. I was clearly the target demographic.
 
 ### So what is it?
 
 According to their website, the camera was designed for one incredibly niche reason: summer camp. Apparently, most summer camps in the U.S. don’t allow electronics of any kind, with the exception of disposable film cameras—or more specifically, _cameras without screens._ The couple who founded the company simply wanted their child to take more photos without worrying about proper exposure, so they invented a camera that captures the essence of a disposable camera experience but with a digital sensor inside. The camera’s popularity quickly expanded beyond its intended campers, promising a nostalgic, distraction-free way to take photos for adults too.
 
-You’d think that sales pitch alone would have been enough to get me to spend the $65, considering it checks a lot of my boxes. But the one thing holding me back was how aggressively I was being marketed to. I kept wondering: _How much of my $65 is going toward manufacturing versus marketing?_
+You’d think that sales pitch alone would have been enough to get me to spend the $65 to buy one, considering it checks a lot of my boxes. But the one thing holding me back was how aggressively I was being served ads. I kept wondering: _How much of my $65 is going toward manufacturing versus marketing?_
 
-Upon closer inspection of the website’s product photos, I noticed that the front “lens” of the camera is merely a facade, hiding what looks like a cheap smartphone sensor behind a large piece of plastic. I wasn’t expecting anything spectacular, but I suspected this would be closer to the $20 children's cameras you can find on Amazon—which, ironically, have the added expense of screens. The camera has received almost universal praise from photographers who have reviewed it, but I suspect the Camp Snap team has been handing them out to YouTubebers like candy. In the eyes of a pro photographer, $65 is nothing—even for a novelty.
+Upon closer inspection of the website’s product photos, I noticed that the front “lens” of the camera is merely a facade, hiding what looks like a cheap smartphone sensor behind a large piece of plastic. I wasn’t expecting anything spectacular, but I suspected this would be closer to the $20 children's cameras you can find on Amazon—which, ironically, have the added expense of screens. The camera has received almost universal praise from photographers who have reviewed it, but I suspect the Camp Snap team has been handing them out to YouTubers like candy on Halloween. Plus, in the eyes of a pro photographer, $65 is nothing—even for a novelty.
 
 Luckily, I didn’t have to make the decision myself. Santa did it for me. All those ads to friends and family paid off because I received an all-black Camp Snap 103b for Christmas—and so did my siblings.
 
@@ -47,7 +49,6 @@ I won’t go too deep into the details, but the amount of digital noise and colo
 After using the camera for a month and a half, would I regret buying it if it hadn’t been a gift?
 
 No. Surprisingly, I’ve found ways to make this thing work. First, I downloaded the black-and-white “filter” from Camp Snap’s website, which made a world of difference. A lot of what made the images look bad now looks kinda cool—the digital noise now resembles film grain. To fix the sharpness issue, I attached an adapter to thread a mist filter onto the camera to soften the images.
-
 ![StreetCrossing](DSCF0427.jpg)
 I’ve taken the camera to multiple concerts, where it’s a no-brainer to pass between friends (or even drunk strangers).
 ![StonePony](DSCF0670.jpg)
