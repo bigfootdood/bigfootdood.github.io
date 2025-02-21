@@ -23,32 +23,28 @@
             "id": "d2460d2f7dcc015d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "post/The Camp Snap 103/_index.md",
-                "mode": "source",
-                "source": false
+                "file": "Hidden/126Marine/houseModel.jpg"
               },
-              "icon": "lucide-file",
-              "title": "_index"
+              "icon": "lucide-image",
+              "title": "houseModel"
             }
           },
           {
             "id": "077c993f6d039763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Hidden/gardenShipScans/index.md",
-                "mode": "source",
-                "source": false
+                "file": "Hidden/gardenShipScans/rendering.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "rendering"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "077c993f6d039763",
+  "active": "05121d84997ad5d3",
   "lastOpenFiles": [
-    "Hidden/gardenShipScans/featured.jpg",
     "Hidden/gardenShipScans/index.md",
+    "post/The Camp Snap 103/_index.md",
+    "Hidden/gardenShipScans/rendering.jpg",
     "Hidden/126Marine/index.md",
-    "Hidden/126Marine/featured.jpg",
+    "Hidden/126Marine/houseModel.jpg",
     "().md",
     "Hidden/gardenShipScans",
     "post/The Camp Snap 103/Original DOC.csv",
     "post/The Camp Snap 103/DSCF0020.jpg",
-    "post/The Camp Snap 103/_index.md",
     "post/The Camp Snap 103/DSCF0780.jpg",
     "IMG_8562.heic",
     "IMG_8561.heic",
