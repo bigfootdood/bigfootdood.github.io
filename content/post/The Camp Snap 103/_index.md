@@ -11,7 +11,7 @@ tags = [
 	    ]
 +++
 
-![CampSnap](post/The%20Camp%20Snap%20103/featured.jpg)
+![CampSnap](camera.jpg)
 
 As someone who refuses the title of photographer but won’t leave home without a camera, I fall into the niche (though growing?) category of point-and-shoot enthusiasts. I think this comes from how much I despise using a smartphone to take photos. There’s something about holding a (sometimes $1,000+) piece of glass by the corners that takes you out of the environment you’re trying to capture. This same awkard feeling has bled into holding up any digital camera that doesn't have a viewfinder: I still feel like I'm staring at a screen. While digital cameras without screens do exist, there’s an easier solution to this problem: buy a film camera.
 
