@@ -23,12 +23,14 @@
             "id": "d2460d2f7dcc015d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "post/The Camp Snap 103/camera.jpg"
+                "file": "Hidden/gardenShipScans/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "camera"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -182,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05121d84997ad5d3",
+  "active": "d2460d2f7dcc015d",
   "lastOpenFiles": [
+    "post/The Camp Snap 103/camera.jpg",
+    "Hidden/gardenShipScans/qbittorrent-5.0.4.dmg",
     "Hidden/126Marine/houseModel.jpg",
     "Hidden/gardenShipScans/index.md",
     "post/The Camp Snap 103/_index.md",
@@ -198,7 +202,6 @@
     "IMG_8561.heic",
     "post/The Camp Snap 103/IMG_8562.heic",
     "post/The Camp Snap 103/IMG_8561.heic",
-    "post/The Camp Snap 103/camera.jpg",
     "post/The Camp Snap 103/SDIM2800.JPG",
     "post/The Camp Snap 103/DSCF0481.jpg",
     "post/The Camp Snap 103/DSCF0646.jpg",
@@ -213,7 +216,6 @@
     "services/index.md",
     "photos/insta.html",
     "photos/_index.md",
-    "photos",
     "insta/_index.md",
     "insta/index.md",
     "insta/insta.md",

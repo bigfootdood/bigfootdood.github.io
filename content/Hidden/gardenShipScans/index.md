@@ -10,7 +10,7 @@ tags:
 ![](rendering.jpg)
 ## Progress:
 ```
-Working on re-topologized, cleaned models. ETA ~ Tuesday 25th.
+Completed manual smoothing & basic retopology. Concerned about detail loss from smoothing.
 ```
 ---
 
@@ -28,5 +28,5 @@ RAW
 
 CLEAN
 
-[WIP](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[CLEAN](https://drive.google.com/drive/folders/1LirRC1e6CcUjzcerfVZBuUcc-nCCYp8e?usp=drive_link) (needs measurement and testingj)
 
