@@ -2,7 +2,7 @@
 author = "Chris Lyons"
 title = "The Camp Snap 103"
 date = "2025-01-31"
-draft = false
+draft = true
 description = "Messing around with the instagram camera"
 tags = [
     "photography",

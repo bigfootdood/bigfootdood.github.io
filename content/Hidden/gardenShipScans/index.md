@@ -24,9 +24,9 @@ RAW
 
 [OBJ](https://drive.google.com/drive/folders/1cwUpSfwgrkG7Xe-QI3xN6zVDc-S71rFd?usp=drive_link)
 
-[AR](https://drive.google.com/drive/folders/1SrNIidMCjo4H__bAaGV2ZCPq1YG7GT4K?usp=drive_link) (Mesh auto-cleaned, kinda janky but good enough for AR demo)
+[AR](https://drive.google.com/drive/folders/1SrNIidMCjo4H__bAaGV2ZCPq1YG7GT4K?usp=drive_link) (Mesh auto-cleaned for AR demo)
 
 CLEAN
 
-[CLEAN](https://drive.google.com/drive/folders/1LirRC1e6CcUjzcerfVZBuUcc-nCCYp8e?usp=drive_link) (needs measurement and testingj)
+[CLEAN](https://drive.google.com/drive/folders/1LirRC1e6CcUjzcerfVZBuUcc-nCCYp8e?usp=drive_link) (needs measurement and testing)
 
