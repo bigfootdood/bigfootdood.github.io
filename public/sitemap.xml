@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hidden/applecart/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hidden/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/example/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
@@ -11,31 +23,13 @@
     <loc>http://localhost:1313/hidden/gardenshipscans/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hidden/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tag/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/camera/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/photography/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/the-camp-snap-103/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hidden/126marine/</loc>
