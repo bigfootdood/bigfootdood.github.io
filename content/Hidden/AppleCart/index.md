@@ -1,5 +1,5 @@
 ---
-title: "Apple Cart Idea"
+title: "Apple Cart Project"
 date: 2025-04-15
 draft: false
 description: "Project Links/Progress for Apple Cart"
@@ -7,11 +7,38 @@ tags: ["project"]
 ---
 
 ```
-Status: Worked on second visual Model
+Status: Still Developing second visual Model.
 
-ToDo:
+ToDo: Model cross braces and middle shelf.
 ```
----
+
+
+# Renderings:
+(needs holes on top)
+![FoldedCart](Folded.jpg)
+
+![UnfoldedCart](unfolded.jpg)
+
+### Cheese Plates:
+* Embedded 10mm
+* 9mm 1/4 20 spacing
+* Will add 3/8 & Arri 
+
+
+![plates](CheesePlate.jpg)
+
+### Leg Mounts
+* Looked for inside corner hardware and couldn't find anything that worked for all 4 corners. This is what I came up with. I thought this would be possible to fabricate in house for a prototype. (I'm no engineer lol)
+* Sheet steel & Squre tubing + reinforced 3d printed carbon inserts.
+
+![LegMount](LegMount.jpg)
+Idea for the front that folds down on a piano hinge:
+![FrontLegMount](FrontLegMount.jpg)
+
+### Caster Wheels:
+* I modeled the wheels after generic Harbor Freight wheels because I found caster quick release plates on Alibaba if we wanted to do this real cheap. I plan on also modeling a dovetail solution similar to the compeditor carts.
+
+(More Renerings soon)
 
 # Reference Links
 
