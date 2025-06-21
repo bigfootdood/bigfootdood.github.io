@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photogrammetry on Chris Lyons</title>
+    <link>http://localhost:1313/tags/photogrammetry/</link>
+    <description>Recent content in Photogrammetry on Chris Lyons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Sculpture 3D Scans</title>
+      <link>http://localhost:1313/hidden/yvonneduck/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/yvonneduck/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;rendering.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;progress&#34;&gt;Progress:&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3d-scans&#34;&gt;3D Scans:&lt;/h3&gt;&#xA;&lt;p&gt;RAW&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1LJ3j9SD9UarKPK0s0DP9xDI8srM3-ppk?usp=drive_link&#34;&gt;STL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1cwUpSfwgrkG7Xe-QI3xN6zVDc-S71rFd?usp=drive_link&#34;&gt;OBJ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1SrNIidMCjo4H__bAaGV2ZCPq1YG7GT4K?usp=drive_link&#34;&gt;AR&lt;/a&gt; (Mesh auto-cleaned for AR demo)&lt;/p&gt;&#xA;&lt;p&gt;CLEAN&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1LirRC1e6CcUjzcerfVZBuUcc-nCCYp8e?usp=drive_link&#34;&gt;CLEAN&lt;/a&gt; (needs measurement and testing)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
