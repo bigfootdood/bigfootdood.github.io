@@ -10,7 +10,7 @@ tags: ["project","stonefield"]
 
 [Civil3D to Revit Pipeline Guide](/stonefield-guide)
 
-[Example Project Download](https://drive.google.com/drive/folders/1tjqk-4kVh1EBYFR2JaXF240RQaPatENU?usp=drive_link)
+[Example Project Download](https://drive.google.com/drive/folders/1nwdvgzkwK67IDlyZHmXphk1l4H8QxwGj?usp=sharing)
 
 ### AR Assets:
 
