@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>Stonefield 3D Visual Pipeline Guide &ndash; Chris Lyons</title>
+<meta name="description" content="We&#39;re all in this together.">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/palettes/dracula.css">
+<link rel="stylesheet" href="http://localhost:1313/css/risotto.css">
+<link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+      <li class="nomarker"><h1 class="page__logo"><a href="http://localhost:1313/" class="page__logo-inner">Chris Lyons</a></h1></li>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/about/" title="">About</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/posts/" title="">Posts</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/services/" title="">Services</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Stonefield 3D Visual Pipeline Guide</h1>
+    </header>
+    <div class="content__body">
+        <h1 id="civil3d-to-revit-workflow-guide-v002">Civil3D to Revit Workflow Guide v0.02</h1>
+<p>This tutorial demonstrates how to use Autodesk Revit to quickly generate supplemental 3D visuals for existing CAD drawings created in Civil 3D/AutoCAD. As an example, it walks through creating enhanced graphics for a Cut/Fill diagram.</p>
+<hr>
+<h3 id="workflow-overview">Workflow Overview:</h3>
+<p><img src="Workflow.png" alt=""></p>
+<h3 id="1-extract-basemap--satellite-imagery-from-autodesk-forma">1. Extract Basemap &amp; Satellite Imagery from Autodesk Forma</h3>
+<ul>
+<li>
+<p>Create a project basemap in Forma and import it into Revit</p>
+</li>
+<li>
+<p>Apply stylization to the basemap in Revit using template files</p>
+</li>
+<li>
+<p>Prepare the map for integration with CAD data</p>
+</li>
+</ul>
+<h3 id="2-extract-surfaces-from-civil-3d-project">2. Extract Surfaces from Civil 3D Project</h3>
+<ul>
+<li>
+<p>Isolate and extract terrain surfaces for use in Revit</p>
+</li>
+<li>
+<p>Import surfaces into Revit and convert them into Toposolids</p>
+</li>
+<li>
+<p>Position the surfaces on the basemap and apply textures</p>
+</li>
+</ul>
+<h3 id="3-create-multi-view-sheet-in-revit">3. Create Multi-View Sheet in Revit</h3>
+<ul>
+<li>
+<p>Set up multiple views to clearly communicate the site context</p>
+</li>
+<li>
+<p>Lay out a sheet</p>
+</li>
+<li>
+<p>Export the model for use in other software such as Blender or Unreal Engine</p>
+</li>
+</ul>
+<hr>
+<h1 id="part-1-forma">Part 1: Forma</h1>
+<h3 id="setup">Setup:</h3>
+<p>To get started, visit the <a href="https://www.autodesk.com/products/forma/overview">Autodesk Forma Homepage</a> and click <strong>&ldquo;Access your Forma Hub.&rdquo;</strong></p>
+<p>Click <strong>&ldquo;Create New Site&rdquo;</strong> in the top-left corner. In the popup window, with your appropriate hub selected (or the default), press <strong>&ldquo;Create New Project.&rdquo;</strong></p>
+<p>Name the project and press <strong>Create.</strong></p>
+<p>Type in the site address and use the bounding box to crop the desired basemap:<br>
+<em>Example Project Address: 48 Orchard Place, Morganville, New Jersey 07751, United States</em></p>
+<p><img src="Pasted%20image%2020250707190411.png" alt=""></p>
+<blockquote>
+<p><strong>Note:</strong> Extend the map well beyond the property boundary, as this cannot be extended later—only cropped.</p>
+</blockquote>
+<p>Once the project loads, you should see the <strong>Order Data</strong> page:</p>
+<p><img src="Pasted%20image%2020250707191413.png" alt=""></p>
+<blockquote>
+<p><em>If not, access it via the globe icon on the left and select <strong>&ldquo;Browse Contextual Data.&rdquo;</strong></em></p>
+</blockquote>
+<p><strong>Add the following layers:</strong></p>
+<ul>
+<li>
+<p><strong>Buildings</strong> from Open City Model, OSM Buildings, or USA Structures</p>
+</li>
+<li>
+<p><strong>Satellite Image</strong> via Mapbox</p>
+</li>
+<li>
+<p><strong>Terrain</strong> via ESRI</p>
+</li>
+<li>
+<p><strong>Parcels</strong> via Regrid <em>(may require payment)</em></p>
+</li>
+</ul>
+<p><img src="Pasted%20image%2020250707193006.png" alt=""></p>
+<p>Click <strong>&ldquo;Create Site Limit&rdquo;</strong> on the right side of the map and trace the property boundary using parcel data:</p>
+<p><img src="Pasted%20image%2020250707194106.png" alt=""></p>
+<h3 id="optional-3d-vegetation">Optional: 3D Vegetation</h3>
+<p>Install the <strong>Thicket Extension</strong> from the Extensions panel:</p>
+<p><img src="Pasted%20image%2020250707204334.png" alt=""></p>
+<p>Create a new <strong>&ldquo;Tree Area&rdquo;</strong> to group multiple tree varieties:</p>
+<p><img src="Pasted%20image%2020250707204945.png" alt=""></p>
+<p>Click <strong>&quot;+&quot;</strong> to add tree types.</p>
+<blockquote>
+<p><em>To save time: <code>ThicketTrees.json</code> is in the assets folder. Import it from the top of the Thicket window.</em></p>
+</blockquote>
+<p>Click <strong>&ldquo;Place&rdquo;</strong> to draw tree areas on the map:</p>
+<p><img src="Pasted%20image%2020250707205534.png" alt=""></p>
+<p><img src="Pasted%20image%2020250707205718.png" alt=""></p>
+<h2 id="exporting">Exporting</h2>
+<p>Install the <strong>Revit Add-In</strong> via the following tab:</p>
+<p><img src="Pasted%20image%2020250707210222.png" alt=""></p>
+<p>Back in Forma, press <strong>&ldquo;Send to Revit Add-In&rdquo;:</strong></p>
+<p><img src="Pasted%20image%2020250707211750.png" alt=""></p>
+<p>Open Revit and create a new project.</p>
+<p>In the <strong>Massing &amp; Site</strong> tab, click <strong>&ldquo;Load Proposal&rdquo;</strong>:</p>
+<p><img src="Pasted%20image%2020250707210541.png" alt=""></p>
+<blockquote>
+<p><em>Note: You must be logged into the <strong>same Autodesk account</strong> in both Revit and Forma.</em></p>
+</blockquote>
+<p>Configure the import via <strong>Options</strong>:</p>
+<p><img src="Pasted%20image%2020250707221508.png" alt=""></p>
+<p>Click the <strong>house icon</strong> to open the 3D view:</p>
+<p><img src="Pasted%20image%2020250707213459.png" alt=""></p>
+<p>Change the visual style via the cube icon:</p>
+<p><img src="Pasted%20image%2020250707213647.png" alt=""></p>
+<p>Switch to <strong>Consistent Colors</strong>:</p>
+<p><img src="Pasted%20image%2020250707213741.png" alt=""></p>
+<h2 id="cleanup">Cleanup</h2>
+<p>Hide the red parcel and building layers (Right-click → Hide in View → Elements).</p>
+<blockquote>
+<p><strong>Tip:</strong> Use the blue light bulb icon to view hidden elements:<br>
+<img src="Pasted%20image%2020250707214436.png" alt=""></p>
+</blockquote>
+<h3 id="fixing-roads">Fixing Roads</h3>
+<p>Imported roads are <em>subdivisions</em> of the basemap <strong>Toposolid</strong> and must be adjusted to appear properly:</p>
+<ol>
+<li>
+<p><strong>Select only the roads:</strong><br>
+Use <strong>Modify &gt; Filter</strong> and select only <strong>Subdivisions</strong></p>
+<p><img src="Pasted%20image%2020250707221147.png" alt=""></p>
+</li>
+<li>
+<p><strong>Change road color:</strong><br>
+Set the <strong>Toposolid Type</strong> to <strong>Asphalt</strong></p>
+</li>
+<li>
+<p><strong>Raise road elevation:</strong><br>
+Set <strong>Sub-Divide Offset</strong> to <code>1'</code> in the <strong>Properties</strong> panel</p>
+<p><img src="Pasted%20image%2020250707222634.png" alt=""></p>
+</li>
+</ol>
+<p>Your basemap is now ready for site data:</p>
+<p><img src="Pasted%20image%2020250707230546.png" alt=""></p>
+<hr>
+<h1 id="part-2-exporting-site-data">Part 2: Exporting Site Data</h1>
+<p>With the basemap ready, export the following from Civil 3D:</p>
+<ol>
+<li>
+<p><strong>Cut/Fill Heatmap</strong> (as 3D solids)</p>
+</li>
+<li>
+<p><strong>Existing Surface</strong> (survey data as a Toposolid)</p>
+</li>
+<li>
+<p><strong>Proposed Surface</strong> (as a second Toposolid)</p>
+</li>
+</ol>
+<h2 id="cutfill-heatmap">Cut/Fill Heatmap</h2>
+<p>Select the Cut/Fill surface → <strong>Surface Tools &gt; Extract from Surface &gt; Extract Objects &gt; Elevations</strong>:</p>
+<p><img src="unnamed.png" alt=""><br>
+<img src="unnamed-1.png" alt=""></p>
+<p>Right-click the surface in the <strong>Prospector Tab &gt; Edit Surface Style</strong>:</p>
+<p><img src="Pasted%20image%2020250715143902.png" alt=""></p>
+<h2 id="exporting-surfaces">Exporting Surfaces</h2>
+<p>Because this Revit model is for visual supplement only, use the <code>WBLOCK</code> method instead of linking:</p>
+<ol>
+<li>
+<p>Select the surface and run <code>EXPLODE</code></p>
+</li>
+<li>
+<p>Run <code>WBLOCK</code> to export each surface as an individual <code>.dxf</code></p>
+</li>
+</ol>
+<p><img src="Pasted%20image%2020250715150001.png" alt=""></p>
+<blockquote>
+<p><em>Note: <code>.dxf</code> offers better compatibility with software like Blender, Illustrator, or Unreal.</em></p>
+</blockquote>
+<p>Make sure the <strong>Existing Surface</strong> is trimmed to the property boundary:</p>
+<p><img src="Pasted%20image%2020250715160815.png" alt=""></p>
+<p>You should now have 3 <code>.dxf</code> files:<br>
+<img src="Pasted%20image%2020250715161803.png" alt=""></p>
+<hr>
+<h1 id="part-3-revit">Part 3: Revit</h1>
+<blockquote>
+<p><em>Tip: Group the basemap objects for easier visibility management.</em><br>
+<img src="Pasted%20image%2020250715172238.png" alt=""></p>
+</blockquote>
+<h3 id="importing--aligning-the-existing-surface">Importing &amp; Aligning the Existing Surface</h3>
+<p>Go to <strong>Insert &gt; Import CAD</strong>, choose the <code>.dxf</code> file, and set <strong>Positioning</strong> to <strong>Auto - Center to Center</strong>:<br>
+<img src="Pasted%20image%2020250715173731.png" alt=""></p>
+<p>Use the <strong>Move Tool</strong> to align the CAD surface with the basemap:</p>
+<p><img src="Pasted%20image%2020250715173850.png" alt=""><br>
+<img src="Pasted%20image%2020250715173954.png" alt=""></p>
+<h3 id="creating-a-toposolid-from-cad">Creating a Toposolid from CAD</h3>
+<p>In <strong>Massing &amp; Site &gt; Toposolid &gt; Create from Import &gt; Create from CAD</strong>:</p>
+<p><img src="Pasted%20image%2020250715174420.png" alt=""><br>
+<img src="Pasted%20image%2020250715174543.png" alt=""><br>
+<img src="Pasted%20image%2020250715174637.png" alt=""></p>
+<p>Click <strong>OK</strong> to create the Toposolid.</p>
+<p>Hide the CAD file (Right-click → Hide in View).</p>
+<p>Select the Toposolid and set <strong>Height Offset From Level</strong> to <code>-3'</code> or as needed:</p>
+<p><img src="Pasted%20image%2020250715175836.png" alt=""></p>
+<p>Double-click the basemap terrain → <strong>Modify &gt; Excavate</strong> → Select the new Toposolid → Finish:</p>
+<p><img src="Pasted%20image%2020250715180353.png" alt=""></p>
+<p>The property now contains accurate survey topography:</p>
+<p><img src="Pasted%20image%2020250715180854.png" alt=""></p>
+<h2 id="building-views">Building Views</h2>
+<p>Right-click and duplicate the default 3D view:</p>
+<p><img src="Pasted%20image%2020250715192504.png" alt=""></p>
+<h3 id="custom-graphics-per-view">Custom Graphics Per View</h3>
+<p>Create a new view and isolate terrain for profile comparison:</p>
+<p><img src="Pasted%20image%2020250717162522.png" alt=""></p>
+<p>Import the Cut/Fill Heatmap: <strong>Insert &gt; Import CAD (Center to Center)</strong></p>
+<p>Align using <strong>Offset From Workplane</strong> in <strong>Properties</strong>, and <strong>Move Tool</strong>:</p>
+<p><img src="Pasted%20image%2020250717163318.png" alt=""></p>
+<p>Switch to <em>Front</em> view via the navigation cube. Disable contour lines in <strong>Visibility/Graphics Overrides</strong>:<br>
+<img src="Pasted%20image%2020250717163552.png" alt=""><br>
+<img src="Pasted%20image%2020250717163905.png" alt=""></p>
+<h3 id="section-box">Section Box</h3>
+<p>Enable <strong>Section Box</strong> for scene cropping:</p>
+<p><img src="Pasted%20image%2020250717165158.png" alt=""></p>
+<p>Duplicate the Cut/Fill Heatmap to isolate <em>Cut</em> and <em>Fill</em> volumes:</p>
+<p><img src="Pasted%20image%2020250717165634.png" alt=""><br>
+<img src="Pasted%20image%2020250717170008.png" alt=""></p>
+<h3 id="displace-tool">Displace Tool</h3>
+<p>To make heatmaps appear in front of terrain <strong>per view</strong>, use the <strong>Displace Tool</strong>:</p>
+<p><img src="Pasted%20image%2020250717171837.png" alt=""><br>
+<img src="Pasted%20image%2020250717171621.png" alt=""><br>
+<img src="Pasted%20image%2020250717172151.png" alt=""><br>
+<img src="Pasted%20image%2020250717173123.png" alt=""></p>
+<h3 id="additional-cad-overlays">Additional CAD Overlays</h3>
+<p>Import full CAD project → Align using <strong>Offset From Workplane</strong> and <strong>Move Tool</strong>:</p>
+<p><img src="Pasted%20image%2020250718122241.png" alt=""></p>
+<p>Use <strong>Query Tool</strong> to delete unnecessary layers:</p>
+<p><img src="Pasted%20image%2020250718123040.png" alt=""><br>
+<img src="Pasted%20image%2020250718131310.png" alt=""></p>
+<h2 id="assembling-a-sheet">Assembling a Sheet</h2>
+<p>Right-click the <strong>Sheets</strong> tab in <strong>Project Browser</strong> → <strong>New Sheet</strong>:</p>
+<p><img src="Pasted%20image%2020250718132627.png" alt=""></p>
+<p>Import a title block or use the default:</p>
+<p><img src="Pasted%20image%2020250718132813.png" alt=""></p>
+<p>Drag views from <strong>Project Browser</strong> into the sheet. Adjust <strong>View Scale</strong> in <strong>Properties</strong>:</p>
+<p><img src="Pasted%20image%2020250718133014.png" alt=""></p>
+<p>Disable section box visibility via <strong>Visibility/Graphics Overrides</strong>:</p>
+<p><img src="Pasted%20image%2020250718133659.png" alt=""></p>
+<p>With customized views and layouts, you can now create compelling visuals to supplement CAD drawings:</p>
+<p><img src="Pasted%20image%2020250718152227.png" alt=""></p>
+<h1 id="exporting-to-blendertwinmotion">Exporting to Blender/Twinmotion</h1>
+<p>Export as <code>.OBJ</code> or <code>.FBX</code>:</p>
+<p><img src="Pasted%20image%2020250718153219.png" alt=""></p>
+<blockquote>
+<p><em>OBJ tends to preserve materials and colors better.</em></p>
+</blockquote>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    
+    
+<h1 class="about__title">ChrisLyons.net</h1>
+<p class="about__description">We&rsquo;re all in this together.</p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="mailto:chrislyons.create@gmail.com" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://www.instagram.com/bigfootdood/" rel="me" aria-label="Insta" title="Insta"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    <p>Project Links for Stonefield</p>
+    
+        <p>
+            
+            2025-04-15
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer">
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

@@ -6,10 +6,12 @@ description: "Project Links for Stonefield"
 tags: ["project","stonefield"]
 ---
 
-# Links:
+# Guide:
 
-### Revit 3d Guide:
+[Civil3D to Revit Pipeline Guide](/stonefield-guide)
 
-### Sample Project Download:
+[Example Project Download](https://drive.google.com/drive/folders/1tjqk-4kVh1EBYFR2JaXF240RQaPatENU?usp=drive_link)
 
 ### AR Assets:
+
+Coming Soon

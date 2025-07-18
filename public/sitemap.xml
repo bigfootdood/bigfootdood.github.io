@@ -26,6 +26,15 @@
     <loc>http://localhost:1313/tags/project/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/stonefield/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hidden/stonefield/stonefield3dpipeline/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stonefield-guide/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/example/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>

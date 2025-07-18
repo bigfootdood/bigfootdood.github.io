@@ -13,7 +13,7 @@
       <link>http://localhost:1313/hidden/yvonneduck/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hidden/yvonneduck/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;rendering.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;progress&#34;&gt;Progress:&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3d-scans&#34;&gt;3D Scans:&lt;/h3&gt;&#xA;&lt;p&gt;RAW&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1LJ3j9SD9UarKPK0s0DP9xDI8srM3-ppk?usp=drive_link&#34;&gt;STL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1cwUpSfwgrkG7Xe-QI3xN6zVDc-S71rFd?usp=drive_link&#34;&gt;OBJ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1SrNIidMCjo4H__bAaGV2ZCPq1YG7GT4K?usp=drive_link&#34;&gt;AR&lt;/a&gt; (Mesh auto-cleaned for AR demo)&lt;/p&gt;&#xA;&lt;p&gt;CLEAN&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1LirRC1e6CcUjzcerfVZBuUcc-nCCYp8e?usp=drive_link&#34;&gt;CLEAN&lt;/a&gt; (needs measurement and testing)&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;Star3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;progress&#34;&gt;Progress:&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Smoothing STL Exports&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3d-scans&#34;&gt;3D Scans:&lt;/h3&gt;&#xA;&lt;p&gt;RAW&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1zLVmja18ibdAmwhdSCNbVXk_1C1uulmK?usp=sharing&#34;&gt;OBJ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;CLEAN&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1I76JXsb4rn5YnkyJDX0m9XLJtCHC8_XC?usp=drive_link&#34;&gt;STL&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple Cart Project</title>
@@ -21,6 +21,20 @@
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hidden/applecart/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Status: Still Developing second visual Model.&#xA;&#xA;ToDo: Model cross braces and middle shelf.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;renderings&#34;&gt;Renderings:&lt;/h1&gt;&#xA;&lt;p&gt;(needs holes on top)&#xA;&lt;img src=&#34;Folded.jpg&#34; alt=&#34;FoldedCart&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;unfolded.jpg&#34; alt=&#34;UnfoldedCart&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;cheese-plates&#34;&gt;Cheese Plates:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Embedded 10mm&lt;/li&gt;&#xA;&lt;li&gt;9mm 1/4 20 spacing&lt;/li&gt;&#xA;&lt;li&gt;Will add 3/8 &amp;amp; Arri&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;CheesePlate.jpg&#34; alt=&#34;plates&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;leg-mounts&#34;&gt;Leg Mounts&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Looked for inside corner hardware and couldn&amp;rsquo;t find anything that worked for all 4 corners. This is what I came up with. I thought this would be possible to fabricate in house for a prototype. (I&amp;rsquo;m no engineer lol)&lt;/li&gt;&#xA;&lt;li&gt;Sheet steel &amp;amp; Squre tubing + reinforced 3d printed carbon inserts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;LegMount.jpg&#34; alt=&#34;LegMount&#34;&gt;&#xA;Idea for the front that folds down on a piano hinge:&#xA;&lt;img src=&#34;FrontLegMount.jpg&#34; alt=&#34;FrontLegMount&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stonefield 3D Visual Pipeline</title>
+      <link>http://localhost:1313/hidden/stonefield3dpipeline/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/stonefield3dpipeline/</guid>
+      <description>&lt;h1 id=&#34;guide&#34;&gt;Guide:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/stonefield-guide&#34;&gt;Civil3D to Revit Pipeline Guide&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1tjqk-4kVh1EBYFR2JaXF240RQaPatENU?usp=drive_link&#34;&gt;Example Project Download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ar-assets&#34;&gt;AR Assets:&lt;/h3&gt;&#xA;&lt;p&gt;Coming Soon&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stonefield 3D Visual Pipeline Guide</title>
+      <link>http://localhost:1313/stonefield-guide/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stonefield-guide/</guid>
+      <description>&lt;h1 id=&#34;civil3d-to-revit-workflow-guide-v002&#34;&gt;Civil3D to Revit Workflow Guide v0.02&lt;/h1&gt;&#xA;&lt;p&gt;This tutorial demonstrates how to use Autodesk Revit to quickly generate supplemental 3D visuals for existing CAD drawings created in Civil 3D/AutoCAD. As an example, it walks through creating enhanced graphics for a Cut/Fill diagram.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;workflow-overview&#34;&gt;Workflow Overview:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Workflow.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-extract-basemap--satellite-imagery-from-autodesk-forma&#34;&gt;1. Extract Basemap &amp;amp; Satellite Imagery from Autodesk Forma&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create a project basemap in Forma and import it into Revit&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Apply stylization to the basemap in Revit using template files&lt;/p&gt;</description>
     </item>
     <item>
       <title>Furniture Base Scans</title>
