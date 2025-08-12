@@ -6,8 +6,15 @@
     <description>Recent content on Chris Lyons</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judi Tavill 3D Scans</title>
+      <link>http://localhost:1313/hidden/juditavill/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/juditavill/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;scans_textured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;downloads&#34;&gt;Downloads&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cleaned-3d-scans&#34;&gt;Cleaned 3D Scans:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;heads up:&lt;/strong&gt;&lt;/em&gt; These 3d files were &lt;em&gt;heavily&lt;/em&gt; smoothed. If too much detail was lost, let me know and I will fix it! I will also smooth more if needed.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1719vla8rzXfudZfVH-ntSnNk-PrCdaTS?usp=sharing&#34;&gt;SMOOTH HIGH-POLY STL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;~150k vertices means these stl files are smooth enough for printing without feeling the individual faces, I will also send much higher resolutions or raw scan data if needed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1wYcnpOe5CGdUy8PTaemlhed2U3ZEt0-N?usp=sharing&#34;&gt;LOW-POLY STL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;~10k vertices makes the low-poly stls good for experimenting with digital sculpting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1wfBTxXk2_YvFqefS3LE5Pfi9ky42_m8I?usp=sharing&#34;&gt;LOW-POLY GLB&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Star Sculpture 3D Scans</title>
       <link>http://localhost:1313/hidden/yvonneduck/</link>
@@ -27,7 +34,7 @@
       <link>http://localhost:1313/hidden/stonefield3dpipeline/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hidden/stonefield3dpipeline/</guid>
-      <description>&lt;h1 id=&#34;guide&#34;&gt;Guide:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/stonefield-guide&#34;&gt;Civil3D to Revit Pipeline Guide&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1tjqk-4kVh1EBYFR2JaXF240RQaPatENU?usp=drive_link&#34;&gt;Example Project Download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ar-assets&#34;&gt;AR Assets:&lt;/h3&gt;&#xA;&lt;p&gt;Coming Soon&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;guide&#34;&gt;Guide:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/stonefield-guide&#34;&gt;Civil3D to Revit Pipeline Guide&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1nwdvgzkwK67IDlyZHmXphk1l4H8QxwGj?usp=sharing&#34;&gt;Example Project Download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ar-assets&#34;&gt;AR Assets:&lt;/h3&gt;&#xA;&lt;p&gt;Coming Soon&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stonefield 3D Visual Pipeline Guide</title>
