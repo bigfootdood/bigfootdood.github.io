@@ -8,7 +8,7 @@ tags: ["project","stonefield"]
 
 ---
 
-- Added Furniture to Tampa Office Model -1.5hrs
+- Added Furniture to Tampa Office Model -2hrs
 
 ---
 
