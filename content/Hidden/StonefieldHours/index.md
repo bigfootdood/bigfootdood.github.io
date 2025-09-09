@@ -12,7 +12,7 @@ tags: ["project","stonefield"]
 
 ---
 
-Total Hours: 1.5
-Total: $150
+Total Hours: 2
+Total: $200
 
 Invoice will be sent on 10/1/25
