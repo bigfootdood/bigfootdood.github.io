@@ -10,7 +10,7 @@ tags: ["project","stonefield"]
 
 ---
 
-- Added Furniture to Tampa Office Model -2+ hrs
+- Added Furniture to Tampa Office Model -3+ hrs
 
 - Added Christmans Surprise to Tampa Office -Free (Merry Christmas lol)
 
@@ -24,7 +24,7 @@ Total Billed Hours: 2
 
 ---
 
-- Modeled Blockout animation (3+)
+- Modeled Blockout animation (4+)
 
 - Animated/Built Rutherford Scene with ArchModel (~2)
 
@@ -37,4 +37,8 @@ Total billed hours: 3
 **Stonefield** total Hours: 2 $200 
 
 (+$350 fixed for scans and model update)
+
+
+
+###### *Billed hours are reduced for fairness. Non-billable work like planning, troubleshooting, and ideation is not included.*
 
