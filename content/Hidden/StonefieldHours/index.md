@@ -40,5 +40,5 @@ Total billed hours: 3
 
 
 
-###### *Billed hours are reduced for fairness. Non-billable work like planning, troubleshooting, and ideation is not included.*
+
 
