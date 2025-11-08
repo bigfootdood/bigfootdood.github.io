@@ -32,9 +32,9 @@ Total billed hours: 3
 
 ---
 
-**Native** Total Hours: 3 $300
+**Native** Total: $300
 
-**Stonefield** total Hours: 2 $200 
+**Stonefield** total: $200 
 
 (+$350 fixed for scans and model update)
 
